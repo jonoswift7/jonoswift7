@@ -1,4 +1,4 @@
-### Hey! My name is Jono! Thanks for stopping by 😁
+# Hey! My name is Jono!
 
 [![Linkedin Badge](https://img.shields.io/badge/-jonoswift-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jono-swift-a42ba1227/)](https://www.linkedin.com/in/jono-swift-a42ba1227/)
 [![Gmail Badge](https://img.shields.io/badge/-jonoswift903-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jonoswift903@gmail.com)](mailto:jonoswift903@gmail.com)
@@ -21,7 +21,7 @@ I'm currently working on building some iOS applications that implement OpenAI. H
 
 This year, while doing my Masters I'm also hoping to learn a bit more about webscraping with Python, so I can create some robust webscraping services coupled with ML models.
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="CPlusPlus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;"/>
@@ -37,3 +37,9 @@ This year, while doing my Masters I'm also hoping to learn a bit more about webs
 <img align="left" alt="Jamf" width="26px" src="./img/JAMF.svg"/>
 <img align="left" alt="SCCM" width="26px" src="./img/sccm.svg"/>
 <img align="left" alt="Active Directory" width="26px" src="./img/active-directory.svg"/>
+
+<br />
+<br />
+
+---
+
