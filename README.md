@@ -5,19 +5,19 @@
 
 ### A Bit About Me
 
-I'm currently working as an SCCM and Jamf administrator and living in Kobe, preparing to begin my Masters of machine learning in Japan.
+👷 I'm currently working as an SCCM and Jamf administrator and living in Kobe, preparing to begin my Masters of machine learning in Japan.
 
-I'm English-Japanese bilingual. 
+📖 I'm English-Japanese bilingual. 
 
-If you're in Japan and want to get in touch, send me an email! Just be sure to make the subject title GITHUB: or something similar.
+📧 If you're in Japan and want to get in touch, send me an email! Just be sure to make the subject title GITHUB: or something similar.
 
-I love coding and learning new coding languages - Swift is the current!
+⌨️ I love coding and learning new coding languages - Swift is the current!
 
-In my spare time I like to explore the areas around me in Kobe, and of course enjoy having a few drinks and winding down with mates 🍻
+🍻 In my spare time I like to explore the areas around me in Kobe, and of course enjoy having a few drinks and winding down with mates
 
 ### Projects
 
-I'm currently working on building some iOS applications that implement OpenAI.
+I'm currently working on building some iOS applications that implement OpenAI. Hoping to release it to the AppStore in a few months.
 
 This year, while doing my Masters I'm also hoping to learn a bit more about webscraping with Python, so I can create some robust webscraping services coupled with ML models.
 
@@ -37,23 +37,3 @@ This year, while doing my Masters I'm also hoping to learn a bit more about webs
 <img align="left" alt="Jamf" width="26px" src="./img/JAMF.svg"/>
 <img align="left" alt="SCCM" width="26px" src="./img/sccm.svg"/>
 <img align="left" alt="Active Directory" width="26px" src="./img/active-directory.svg"/>
-
-
-
-
-
-
-<!--
-**jonoswift7/jonoswift7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
