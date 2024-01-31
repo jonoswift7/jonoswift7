@@ -20,6 +20,8 @@ I'm currently working as an SCCM and Jamf administrator and living in Kobe, prep
 <img align="left" alt="TensorFlow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Bash" width="26px" src="./img/terminal.svg"/>
 <img align="left" alt="Jamf" width="26px" src="./img/JAMF.svg"/>
+<img align="left" alt="SCCM" width="26px" src="./img/sccm.svg"/>
+<img align="left" alt="Active Directory" width="26px" src="./img/active-directory.svg"/>
 
 
 
