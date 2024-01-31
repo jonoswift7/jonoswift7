@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey! My name is Jono! Thanks for stopping by 😁
+
+I'm currently working as an SCCM and Jamf administrator and living in Kobe, preparing to begin my Masters of machine learning in Japan 🏯
+
+I'm very interested in machine learning and the current improvements of LLMs and Federated Learning.
+
+[![Gmail Badge](https://img.shields.io/badge/-jonoswift903-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jonoswift903@gmail.com)](mailto:jonoswift903@gmail.com)
+
+
 
 <!--
 **jonoswift7/jonoswift7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
