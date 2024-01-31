@@ -5,6 +5,13 @@
 
 I'm currently working as an SCCM and Jamf administrator and living in Kobe, preparing to begin my Masters of machine learning in Japan 🏯
 
+I'm English-Japanese bilingual. 
+
+If you're in Japan and want to get in touch, send me an email!
+
+### Projects
+
+I'm currently working on building some iOS applications that implement OpenAI.
 
 ### Languages and Tools:
 
@@ -22,6 +29,8 @@ I'm currently working as an SCCM and Jamf administrator and living in Kobe, prep
 <img align="left" alt="Jamf" width="26px" src="./img/JAMF.svg"/>
 <img align="left" alt="SCCM" width="26px" src="./img/sccm.svg"/>
 <img align="left" alt="Active Directory" width="26px" src="./img/active-directory.svg"/>
+
+
 
 
 
