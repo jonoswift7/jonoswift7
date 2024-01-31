@@ -1,10 +1,10 @@
 ### Hey! My name is Jono! Thanks for stopping by 😁
 
-I'm currently working as an SCCM and Jamf administrator and living in Kobe, preparing to begin my Masters of machine learning in Japan 🏯
-
-I'm very interested in machine learning and the current improvements of LLMs and Federated Learning.
-
+[![Linkedin Badge](https://img.shields.io/badge/-jonoswift-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jono-swift-a42ba1227/)](https://www.linkedin.com/in/jono-swift-a42ba1227/)
 [![Gmail Badge](https://img.shields.io/badge/-jonoswift903-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jonoswift903@gmail.com)](mailto:jonoswift903@gmail.com)
+
+I'm currently working as an SCCM and Jamf administrator and living in Kobe, preparing to begin my Masters of machine learning in Japan 🏯
+I'm very interested in machine learning and the current improvements of LLMs and Federated Learning.
 
 
 
