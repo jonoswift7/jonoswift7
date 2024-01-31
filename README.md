@@ -4,7 +4,20 @@
 [![Gmail Badge](https://img.shields.io/badge/-jonoswift903-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jonoswift903@gmail.com)](mailto:jonoswift903@gmail.com)
 
 I'm currently working as an SCCM and Jamf administrator and living in Kobe, preparing to begin my Masters of machine learning in Japan 🏯
-I'm very interested in machine learning and the current improvements of LLMs and Federated Learning.
+
+
+### Languages and Tools:
+
+<img align="left" alt="CPlusPlus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Swift" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Azure" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="XCode" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="TensorFlow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;"/>
 
 
 
