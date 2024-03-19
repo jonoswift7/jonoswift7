@@ -21,6 +21,8 @@ I'm currently working on building some iOS applications that implement OpenAI. H
 
 This year, while doing my Masters I'm also hoping to learn a bit more about webscraping with Python, so I can create some robust webscraping services coupled with ML models.
 
+You'll also find some bash scripts and tools here that I've developed. Please leave comments and critiques if you have any!
+
 ## Languages and Tools:
 
 <img align="left" alt="CPlusPlus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;"/>
